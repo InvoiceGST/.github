@@ -150,7 +150,7 @@
   │  STEP 1  │ ──► │   STEP 2     │ ──► │    STEP 3      │ ──► │    STEP 4       │
   │          │     │              │     │                │     │                 │
   │ Sign Up  │     │ Add Clients  │     │ Create Invoice │     │ Export GSTR-1   │
-  │  Free    │     │ GSTIN auto-  │     │ GST auto-calc  │     │ in 5 minutes ⚡ │
+  │  Free    │     │ GSTIN auto-  │     │ GST auto-calc  │     │ in 5 minutes    │
   │ 60 sec   │     │ fetch + val  │     │ Multi-template │     │ One click done  │
   └──────────┘     └──────────────┘     └────────────────┘     └─────────────────┘
      No CC             Import or              PDF + share            File directly
