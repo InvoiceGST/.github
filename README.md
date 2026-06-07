@@ -41,8 +41,8 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│   📁 Before InvoiceGST          ⚡ After InvoiceGST                    │
-│   ─────────────────────          ────────────────────                   │
+│   📁 Before InvoiceGST          ⚡ After InvoiceGST                     │
+│   ─────────────────────          ────────────────────                    │
 │                                                                          │
 │   📥 Collect data from client    ✅ Client creates invoices in app      │
 │   🔄 Re-enter into software      ✅ Auto-structured, GST-ready          │
@@ -50,7 +50,7 @@
 │   📊 Format GSTR-1 manually      ✅ One-click GSTR-1 export             │
 │   ⏰ 8+ hours per client         ✅ Under 5 minutes per client          │
 │                                                                          │
-│              ↓  96% TIME SAVED PER CLIENT PER MONTH  ↓                 │
+│              ↓  96% TIME SAVED PER CLIENT PER MONTH  ↓                   │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -194,7 +194,7 @@
 
 | Plan | Clients | Bills/Month | Price |
 |:-:|:-:|:-:|:-:|
-| 🆓 **Free** | 5 Clients | 1,000 Bills | ₹0 forever |
+| 🆓 **Free** | 5 Clients | 1,000 Bills | ₹0 For Some Time |
 | 💼 **Pro** | Unlimited | Unlimited | Contact Sales |
 | 🏢 **Enterprise** | Unlimited | Unlimited | Custom |
 
@@ -224,7 +224,7 @@
 
 | 🌐 Website | 📧 Email | 📞 Phone |
 |:-:|:-:|:-:|
-| [invoicegst.in](https://invoicegst.in) | [contact@prodovaai.com](mailto:contact@prodovaai.com) | +91 9313181210 |
+| [invoicegst.in](https://invoicegst.in) | [support@invoicegst.in](mailto:support@invoicegst.in) | +91 9601731936 |
 
 <br/>
 
